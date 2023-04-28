@@ -14,7 +14,7 @@ Foi criado um cenário de teste, usando o Selenium com Java.
 
 ## Limitações
 No final do preenchimento do formulário, é requerida uma validação por captcha. Para contornar esta validação, coloquei 
-um sleep de 10 segundo, para que a validação seja feita manualmente.
+um sleep de 10 segundos, para que a validação seja feita manualmente.
 
 ## Autora
 
